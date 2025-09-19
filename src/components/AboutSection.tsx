@@ -3,7 +3,7 @@ import { Badge } from "./ui/badge";
 import { motion } from "motion/react";
 import { Calendar, Clock, MapPin } from "lucide-react";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
-import profileImage from "figma:asset/4f262f9f30e3da9fa8cd841069a7691115dd68de.png";
+import profileImage from "../assets/4f262f9f30e3da9fa8cd841069a7691115dd68de.png";
 
 export function AboutSection() {
   return (
